@@ -21,7 +21,7 @@ chmod +x /usr/bin/iperf3
    iperf3 -s -D
 
 **3.在Surge 4中进行 iPerf 测试**
-
+![image](https://github.com/iJony/iPerf-3-Test/blob/master/IMG_485.JPEG)
 
 
 
