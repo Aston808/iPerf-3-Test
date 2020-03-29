@@ -6,11 +6,9 @@
 - 报告带宽，延迟抖动和数据包丢失
 - 测试一些网络设备如路由器，防火墙，交换机等的性能
 
-**1.CentOS下一键安装 iPerf 3 脚本：**
+**1.安装 iPerf 3 脚本：**
 
-wget -O /usr/lib/libiperf.so.0 https://iperf.fr/download/ubuntu/libiperf.so.0_3.1.3
-wget -O /usr/bin/iperf3 https://iperf.fr/download/ubuntu/iperf3_3.1.3
-chmod +x /usr/bin/iperf3
+https://iperf.fr/iperf-download.php
 
 **2.在 VPS 上运行 iPerf 3 进程**
 
